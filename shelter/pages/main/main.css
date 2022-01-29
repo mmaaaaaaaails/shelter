@@ -9,6 +9,11 @@ body {
     overflow-x: hidden;
 }
 
+.hero__picture {
+    position: relative;
+    top: 5px;
+}
+
 .modal {
     width: 900px;
     height: 500px;
@@ -826,6 +831,8 @@ body {
 
     .hero__picture {
         width: 100%;
+        position: relative;
+        top: 5px;
     }
 
 
@@ -1074,6 +1081,8 @@ body {
     .hero__picture {
         width: 100%;
         padding-left: 40px;
+        position: relative;
+        top: 5px;
     }
 
     .hero__button {
